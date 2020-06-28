@@ -1,4 +1,4 @@
-# Movies rarbg Scrapy
+# RARBG Scrapy Movies
 
 1 - Executar o script csrarbg.py para resolver o CAPTCHA utilizando OCR e exportar o cookie no formato Netscape.
 
