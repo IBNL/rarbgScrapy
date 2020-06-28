@@ -14,6 +14,6 @@
 
   ~# getMovieData.py
   
-  ![Exemplo getMovieData](/getIndexPage.png?raw=true "Exemplo getMovieData")
+  ![Exemplo getMovieData](/getMovieData.png?raw=true "Exemplo getMovieData")
 
   
